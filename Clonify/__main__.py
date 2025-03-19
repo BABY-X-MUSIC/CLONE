@@ -47,7 +47,7 @@ async def init():
     await PRO.decorators()
     await restart_bots()
     LOGGER("Clonify").info(
-        "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗣𝗿𝗼𝗕𝗼t𝘀☠︎︎\n╚═════ஜ۩۞۩ஜ════╝"
+        "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗨𝗡𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 ✘ 𝗠𝗨𝗦𝗜𝗖☠︎︎\n╚═════ஜ۩۞۩ஜ════╝"
     )
     await idle()
     await app.stop()
