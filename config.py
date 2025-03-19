@@ -15,13 +15,13 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ZeoXpro")
+OWNER_USERNAME = getenv("OWNER_USERNAME","ll_ZIDDI_SHAYAR_ll")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "AqiaBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "UNOFFICIAL_MUSIC_BOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Aqia")
+BOT_NAME = getenv("BOT_NAME" , "˹𝗨𝗡𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 ✘ 𝗠𝗨𝗦𝗜𝗖˼")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "AqiaPro")
+ASSUSERNAME = getenv("ASSUSERNAME" , "UNOFFICIAL_MUSIC_BOT")
 # ---------------------------------------------------------
 
 
@@ -41,7 +41,7 @@ LOGGER_ID = int(getenv("LOGGER_ID"))
 CLONE_LOGGER = LOGGER_ID
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7355202884))
+OWNER_ID = int(getenv("OWNER_ID", 5280511188))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -54,10 +54,10 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/TeamProBots/Clonify")
+SOURCE = getenv("SOURCE", "https://t.me/addlist/YTfSz81877xlZGNl")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/TeamProBots/Clonify",
+    "https://github.com/BABY-X-MUSIC/CLONE",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -72,9 +72,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ProBotts")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ProBotGc")
-CHAT = getenv("CHAT", "https://t.me/ProBotGc")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/UFC_NETWORK")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/addlist/YTfSz81877xlZGNl")
+CHAT = getenv("CHAT", "https://t.me/addlist/YTfSz81877xlZGNl")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -143,32 +143,32 @@ confirmer = {}
 # ------------------------------------------------------------------------
 
 STREAMI_PICS = [
-"https://i.ibb.co/whgkNq6n/start-img-1.jpg",
-"https://i.ibb.co/q32FdssH/start-img-2.jpg",
+"https://files.catbox.moe/hbkwsg.jpg",
+"https://files.catbox.moe/hbkwsg.jpg",
 
 ]
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/hbkwsg.jpg"
 )
 
 HELP_IMG_URL = getenv(
-    "HELP_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg"
+    "HELP_IMG_URL", "https://files.catbox.moe/hbkwsg.jpg"
 )
 
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://i.ibb.co/VWnm6f3f/ping.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/hbkwsg.jpg"
 )
-PLAYLIST_IMG_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
-STATS_IMG_URL = "https://i.ibb.co/pBqPtFYn/statistics.jpg"
-TELEGRAM_AUDIO_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
-TELEGRAM_VIDEO_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
-STREAM_IMG_URL = "https://i.ibb.co/0VKCS20y/stream.jpg"
-SOUNCLOUD_IMG_URL = "https://i.ibb.co/S4sPf3q8/soundcloud.jpg"
-YOUTUBE_IMG_URL = "https://i.ibb.co/xShkBVBK/youtube.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://i.ibb.co/XZfMS8Db/spotify.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://i.ibb.co/XZfMS8Db/spotify.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://i.ibb.co/XZfMS8Db/spotify.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/hbkwsg.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/hbkwsg.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/hbkwsg.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/hbkwsg.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/hbkwsg.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/hbkwsg.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/hbkwsg.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/hbkwsg.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/hbkwsg.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "hhttps://files.catbox.moe/hbkwsg.jpg"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
