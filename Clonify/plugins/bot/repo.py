@@ -10,9 +10,9 @@ start_txt = """
 **Cʟᴏɴɪғʏ** - Tʜᴇ Uʟᴛɪᴍᴀᴛᴇ Tᴇʟᴇɢʀᴀᴍ Mᴜsɪᴄ Sᴏʟᴜᴛɪᴏɴ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇs.
 
 ┏━━━━━━━━━━━━━━━━━⧫
-┠ ◆ **sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ:** [Click Here](https://github.com/TeamProBots/Clonify)  
-┠ ◆ **ᴅᴇᴠᴇʟᴏᴘᴇʀ:** [Zᴇᴏ](https://t.me/ZeoXpro)
-┠ ◆ **ʀᴇʟᴇᴀsᴇᴅ ʙʏ:** [PʀᴏBᴏᴛs](https://t.me/ProBotts)
+┠ ◆ **sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ:** [Click Here](https://t.me/UFC_NETWORK)  
+┠ ◆ **ᴅᴇᴠᴇʟᴏᴘᴇʀ:** [ɪɴɴᴏᴄᴇɴᴛ ʙᴀᴄʜᴀ](https://t.me/UFC_INOCENT)
+┠ ◆ **ʀᴇʟᴇᴀsᴇᴅ ʙʏ:** [𝗧𝗛𝗘 𝗨𝗡𝗢𝗙𝗙𝗖𝗜𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞 ꪜ](https://t.me/UFC_NETWORK)\
 ┗━━━━━━━━━━━━━━━━━⧫
 
 __Fᴏʀᴋ ɪᴛ, ᴄᴜsᴛᴏᴍɪᴢᴇ ɪᴛ, ᴀɴᴅ ᴍᴀᴋᴇ ɪᴛ ʏᴏᴜʀ ᴏᴡɴ!__
@@ -26,11 +26,11 @@ __Fᴏʀᴋ ɪᴛ, ᴄᴜsᴛᴏᴍɪᴢᴇ ɪᴛ, ᴀɴᴅ ᴍᴀᴋᴇ ɪᴛ �
 async def start(_, msg):
     buttons = [
         [
-                InlineKeyboardButton("𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="https://t.me/ProBotGc"),
-                InlineKeyboardButton("𝗨𝗣𝗗𝗔𝗧𝗘", url="https://t.me/ProBotts")
+                InlineKeyboardButton("𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="https://t.me/UFC_NETWORK"),
+                InlineKeyboardButton("𝗨𝗣𝗗𝗔𝗧𝗘", url="https://t.me/UFC_NETWORK")
         ],
         [ 
-          InlineKeyboardButton("𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘", url=f"https://github.com/TeamProBots/Clonify")
+          InlineKeyboardButton("𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘", url=f"https://t.me/UFC_NETWORK")
         ]
     ]
     
@@ -60,7 +60,7 @@ async def repo(_, message):
             list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
             count += 1
 
-        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://t.me/ProBotts) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/ProBotGc)
+        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://t.me/UFC_NETWORK) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/UFC_NETWORK)
 | 𝖢𝖮𝖭𝖳𝖱𝖨𝖡𝖴𝖳𝖮𝖱𝖲 |
 ----------------
 {list_of_users}"""
