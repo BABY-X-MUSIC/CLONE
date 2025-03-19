@@ -1,7 +1,7 @@
 {
-  "name": "CLONIFY",
+  "name": "UNOFFICAL",
   "description": "Clonify - A Telegram Music Bot, built with Python, Pyrogram & Py-TgCalls. Stream high-quality music in voice chats seamlessly!",
-  "logo": "https://i.ibb.co/9HQ9VcBz/zeixpic2.jpg",
+  "logo": "https://files.catbox.moe/hbkwsg.jpg",
   "keywords": [
     "python3",
     "telegram",
@@ -61,7 +61,7 @@
     },
     "LOGGER_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-      "value": "",
+      "value": "-1002127386247",
       "required": true
     }
   },
