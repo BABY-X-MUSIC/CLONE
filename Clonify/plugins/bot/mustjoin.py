@@ -6,7 +6,7 @@ from Clonify import app
 
 #--------------------------
 
-MUST_JOIN = "ProBotts"
+MUST_JOIN = "UFC_NETWORK"
 
 #--------------------------
 
