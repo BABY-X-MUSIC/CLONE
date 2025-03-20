@@ -6,7 +6,7 @@ from Clonify import app
 
 #--------------------------
 
-MUST_JOIN = "UFC_NETWORK"
+MUST_JOIN = "UFC_LINK_ZONE"
 
 #--------------------------
 
